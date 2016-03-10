@@ -1,0 +1,46 @@
+<a href = "l/en">English</a> | <a href = "l/de">Deutsch</a> | <a href = "l/es"><%= "Español" %></a>
+
+<hr/>
+<br/>
+<br/>
+
+<div class ="main">
+<h1><%= t('topic_articles') %></h1>
+
+
+<h2><%= t('topic_articles') %>:</h2>
+<div class = "menu">
+	<a href = "#t1"><%= t('article_1_head') %></a><br/>
+	<a href = "#t2"><%= t('article_2_head') %></a><br/>
+	<a href = "#t3"><%= t('article_3_head') %></a><br/>
+	<br/>
+	<br/>
+	<a href = ".."><%= t('back_to_home') %></a>
+	</div>
+
+	<br/>
+	<br/>
+
+	<% def superbreak 
+		str = ""
+		100.times do str += "<br/>" end 
+		str.html_safe
+	end
+	%>
+	<a name="t1"></a>
+	<h2><%= t('article_1_head') %></h2>
+	<p class = "para">
+		<%= t('article_1') %>
+	</p><br/>
+	<a name="t2"></a>
+	<h2><%= t('article_2_head') %></h2>
+	<p class = "para">
+		<%= t('article_2') %>
+	</p><br/>
+	<a name="t3"></a>
+	<h2><%= t('article_3_head') %></h2>
+	<p class = "para">
+		<%= t('article_3') %>
+	</p><br/>
+
+</div>

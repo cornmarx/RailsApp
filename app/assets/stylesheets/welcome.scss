@@ -1,0 +1,63 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+	margin: 5% 20% 5% 20%;
+	padding: 0px 0px 0px 0px;
+	background: #f9f9f9;	
+}
+
+.main {
+	font-family: sans-serif;
+	background-color: #eeeeee;
+	border: 2px solid #dddddd;
+}
+
+.para {
+	font-family: sans-serif;
+	margin: 10px 10px 10px 10px;
+	padding: 3px 3px 3px 3px;
+	color: #444444;
+}
+
+.menu {
+	font-family: sans-serif;
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px 5px;
+	font-size: 20px;
+}
+
+h1 {
+	margin-top: 0px;
+	font-family: sans-serif;
+	color:#0055aa;
+	background-color: #99ccff;
+	padding: 10px 10px 10px 10px;
+}
+
+a {
+	font-family: sans-serif;
+	color:#4499ff;
+}
+a:visited{
+	font-family: sans-serif;
+	color:#4499ff;
+}
+a:hover{
+	font-family: sans-serif;
+	color:#77ccff;
+}
+
+hr {
+	border: 0px;
+	heigth: 0px;
+	border-top: 1px solid #EFEFEF;
+	border-bottom: 1px solid #EEEEEE;
+}
+
+h2 {
+	font-family:sans-serif;
+	color: #555555;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
