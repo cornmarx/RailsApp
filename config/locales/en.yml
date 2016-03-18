@@ -1,12 +1,5 @@
 ---
 en:
-  about_head: What is this site about?
-  about_what: This is a site about the In-Context-Editor.
-  topic_about: About
-  welcome:
-    index:
-      about_head: About
-      contact_head: Contact
-      topic_head: Topics
-      welcome_head: Welcome to WWW
-      welcome_text: Welcome to this website! It uses the Ruby-Rails-Framework.
+  hello_world: Hello World
+  translation: Translation
+  welcome: Welcome
