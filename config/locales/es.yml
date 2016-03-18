@@ -4,4 +4,6 @@ es:
   how_are_you: Hola, ¿Cómo estás?
   im_fine: "¡Estoy bien!"
   translation: Traducción
-  welcome: Bienvenido
+  welcome:
+    index:
+      welcome_head: "¡Bienvenido!"
