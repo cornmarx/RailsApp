@@ -4,4 +4,6 @@ en:
   how_are_you: Hi, How are You?
   im_fine: I am fine!
   translation: Translation
-  welcome: Welcome
+  welcome:
+    index:
+      welcome_head: Welcome!

@@ -4,4 +4,6 @@ fr:
   how_are_you: Bonjeur, Comment allez-vous?
   im_fine: Je vais bien!
   translation: Traduction
-  welcome: Bienvenu
+  welcome:
+    index:
+      welcome_head: Bonjour!
