@@ -1,12 +1,5 @@
 ---
 de:
-  about_head: Was?
-  about_what: Hier geht es um den In-Context-Editor.
-  topic_about: "Über"
-  welcome:
-    index:
-      about_head: "Über diese Seite"
-      contact_head: Kontakt
-      topic_head: Themen
-      welcome_head: Willkommen bei WWW
-      welcome_text: Willkommen auf dieser Webseite! Sie verwendet das Ruby-Rails-Framework.
+  hello_world: Hallo Welt
+  translation: "Übersetzung"
+  welcome: Willkommen
