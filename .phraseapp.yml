@@ -1,6 +1,6 @@
 phraseapp:
   access_token: b8de62b4bf0527d87eab257eb774ff17e24bd4047e4185422f2d0e9507840e6b
-  project_id: c7d980203eb63354ff3b20189da2a919
+  project_id: 37544164cb42c19ddb0e88eb8bd34e71
   file_format: yml
   push:
     sources:
