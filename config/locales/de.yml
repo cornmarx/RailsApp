@@ -1,9 +1,3 @@
 ---
 de:
-  hello_world: Hallo Welt
-  how_are_you: Hallo, Wie geht es Dir?
-  im_fine: Mir geht's gut!
-  translation: "Übersetzung"
-  welcome:
-    index:
-      welcome_head: Willkommen!
+  hello_world: Hallo Welt!
