@@ -13,7 +13,7 @@ phraseapp:
       file: ./config/locales/account.<locale_name>.yml
       params:
         file_format: yml
-        tag: "accounts"
+        tag: "account"
 
     -
       file: ./config/locales/email.<locale_name>.yml
