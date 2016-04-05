@@ -9,6 +9,15 @@ phraseapp:
         file_format: yml
   pull:
     targets:
-    - file: ./config/locales/<tag>.<locale_name>.yml
+    -
+      file: ./config/locales/account.<locale_name>.yml
       params:
         file_format: yml
+        tag: "accounts"
+
+    -
+      file: ./config/locales/email.<locale_name>.yml
+      params:
+        file_format: yml
+        tag: "email"
+
