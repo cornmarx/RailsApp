@@ -1,14 +1,14 @@
 phraseapp:
-  access_token: b8de62b4bf0527d87eab257eb774ff17e24bd4047e4185422f2d0e9507840e6b
-  project_id: 37544164cb42c19ddb0e88eb8bd34e71
+  access_token: 09fed8fe0882a8d04ec0815c8d8e472d671b535434c36a60c7d9adfcfd9338ae
+  project_id: 6b37be3bd8f37ca54f479949fc8888f1
   file_format: yml
   push:
     sources:
-    - file: ./config/locales/<locale_name>.yml
+    - file: ./config/locales/<tag>.<locale_name>.yml
       params:
         file_format: yml
   pull:
     targets:
-    - file: ./config/locales/<locale_name>.yml
+    - file: ./config/locales/<tag>.<locale_name>.yml
       params:
         file_format: yml
