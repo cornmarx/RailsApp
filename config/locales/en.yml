@@ -1,0 +1,9 @@
+--- 
+welcome: 
+  errors: 
+    another_error: Error 404
+  index: 
+    btn_get_started: Getting Started!
+    btn_visit: Visit PhraseApp.com
+    main_title: Welcome to PhraseApp!
+    translated_with_phraseapp: This site was translated with PhraseApp.
