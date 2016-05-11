@@ -1,0 +1,9 @@
+--- 
+welcome: 
+  errors: 
+    another_error: Otro Erór!
+  index: 
+    btn_get_started: ¡Empezar ahora!
+    btn_visit: Visitar PhraseApp.com
+    main_title: ¡Bienvenido a PhraseApp!
+    translated_with_phraseapp: Esa página había traduzido con PhraseApp.
