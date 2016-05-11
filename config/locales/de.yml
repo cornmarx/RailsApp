@@ -1,0 +1,8 @@
+--- 
+welcome: 
+  errors: 
+    another_error: Noch ein Fehler!
+  index: 
+    btn_visit: Besuche PhraseApp.com
+    main_title: Willkommen!
+    translated_with_phraseapp: Diese Seite wurde mit PhraseApp übersetzt.
