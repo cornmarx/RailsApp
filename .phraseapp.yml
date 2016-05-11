@@ -1,14 +1,14 @@
 phraseapp:
   access_token: 73288fffecf756988423c1466729490e1005aa20a5c2d10de4ce2da242aef77f
   project_id: 6d66983a93c547237b5a766af2d92ecd
-  file_format: symfony_yml
+  file_format: 	yml_symfony2
   push:
     sources:
     - file: ./config/locales/<locale_name>.yml
       params:
-        file_format: symfony_yml
+        file_format: 	yml_symfony2
   pull:
     targets:
     - file: ./config/locales/<locale_name>.yml
       params:
-        file_format: symfony_yml
+        file_format: 	yml_symfony2
